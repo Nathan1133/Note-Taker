@@ -1,6 +1,5 @@
 # Note-Taker
  <br />
-![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) <br />
 
 ## Deployment Link
 https://guarded-mesa-68520.herokuapp.com/notes
